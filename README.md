@@ -8,7 +8,6 @@
 <!--<h3 align="center">Java Full Stack Developer</h3> -->
 
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Keerthi-2025/Keerthi-2025/main/image.jpg" alt="Coding Girl" width="250" height="250">
 </p>
