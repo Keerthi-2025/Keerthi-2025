@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FBF70&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keerthi+R+H;Java+Full+Stack+Developer;" alt="Keerthi Typing SVG" />
   </a>
 </h3>
-
+   
 
 <!--<h3 align="center">Java Full Stack Developer</h3> -->
 
