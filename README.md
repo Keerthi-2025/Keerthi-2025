@@ -14,7 +14,6 @@
 
 <p>I'm a dedicated Java Full Stack Developer with a strong foundation in both frontend and backend development. I specialize in building modern, scalable web applications. I prioritize developing clean, scalable, and innovative codebases that drive user engagement and support long-term business success.</p>
 
-
 <br>
 <p align="left"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Keerthi-2025&label=Profile%20views&color=0e75b6&style=flat" alt="Keerthi R H" /> </p>
