@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FBF70&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keerthi+R+H;Java+Full+Stack+Developer;" alt="Keerthi Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FBF70&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keerthi+R+H;Full+Stack+Developer;" alt="Keerthi Typing SVG" />
   </a>
 </h3>
 <!--<h3 align="center">Java Full Stack Developer</h3> -->
@@ -12,7 +12,7 @@
 
 
 
-<p>I'm a dedicated Java Full Stack Developer with a strong foundation in both frontend and backend development. I specialize in building modern, scalable web applications. I prioritize developing clean, scalable, and innovative codebases that drive user engagement and support long-term business success.</p>
+<p>I'm a dedicated Full Stack Developer with a strong foundation in both frontend and backend development. I specialize in building modern, scalable web applications. I prioritize developing clean, scalable, and innovative codebases that drive user engagement and support long-term business success.</p>
 
 <br>
 <p align="left"> 
